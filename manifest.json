@@ -1,0 +1,15 @@
+{
+  "id": "org.micatalogo.stremio",
+  "version": "1.0.0",
+  "name": "Mis Sagas y Estudios",
+  "description": "Catalogo propio estatico",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "pixar",
+      "name": "Coleccion Pixar"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "metas": [
+    {
+      "id": "tt0114709",
+      "type": "movie",
+      "name": "Toy Story",
+      "poster": "https://images.metahub.space/poster/medium/tt0114709/img"
+    },
+    {
+      "id": "tt0198781",
+      "type": "movie",
+      "name": "Monsters, Inc.",
+      "poster": "https://images.metahub.space/poster/medium/tt0198781/img"
+    },
+    {
+      "id": "tt0266543",
+      "type": "movie",
+      "name": "Buscando a Nemo",
+      "poster": "https://images.metahub.space/poster/medium/tt0266543/img"
+    }
+  ]
+}

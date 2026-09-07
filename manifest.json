@@ -1,6 +1,6 @@
 {
   "id": "org.micatalogo.stremio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Mis Sagas y Estudios",
   "description": "Catalogo propio estatico",
   "resources": ["catalog"],
@@ -10,6 +10,11 @@
       "type": "movie",
       "id": "pixar",
       "name": "Coleccion Pixar"
+    },
+    {
+      "type": "movie",
+      "id": "martulina",
+      "name": "Martulina"
     }
   ]
 }

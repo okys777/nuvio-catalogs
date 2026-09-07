@@ -1,0 +1,274 @@
+{
+  "metas": [
+    {
+      "id": "tt2293640",
+      "type": "movie",
+      "name": "Minions",
+      "poster": "https://images.metahub.space/poster/medium/tt2293640/img"
+    },
+    {
+      "id": "tt1323594",
+      "type": "movie",
+      "name": "Mi villano favorito",
+      "poster": "https://images.metahub.space/poster/medium/tt1323594/img"
+    },
+    {
+      "id": "tt1690953",
+      "type": "movie",
+      "name": "Mi villano favorito 2",
+      "poster": "https://images.metahub.space/poster/medium/tt1690953/img"
+    },
+    {
+      "id": "tt3469046",
+      "type": "movie",
+      "name": "Mi villano favorito 3",
+      "poster": "https://images.metahub.space/poster/medium/tt3469046/img"
+    },
+    {
+      "id": "tt7510222",
+      "type": "movie",
+      "name": "Mi villano favorito 4",
+      "poster": "https://images.metahub.space/poster/medium/tt7510222/img"
+    },
+    {
+      "id": "tt5113044",
+      "type": "movie",
+      "name": "Minions: Nace un villano",
+      "poster": "https://images.metahub.space/poster/medium/tt5113044/img"
+    },
+    {
+      "id": "tt2294629",
+      "type": "movie",
+      "name": "Frozen: Una aventura congelada",
+      "poster": "https://images.metahub.space/poster/medium/tt2294629/img"
+    },
+    {
+      "id": "tt4520988",
+      "type": "movie",
+      "name": "Frozen 2",
+      "poster": "https://images.metahub.space/poster/medium/tt4520988/img"
+    },
+    {
+      "id": "tt3521164",
+      "type": "movie",
+      "name": "Moana: Un mar de aventuras",
+      "poster": "https://images.metahub.space/poster/medium/tt3521164/img"
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Moana 2",
+      "poster": "https://images.metahub.space/poster/medium/tt13622970/img"
+    },
+    {
+      "id": "tt2953050",
+      "type": "movie",
+      "name": "Encanto",
+      "poster": "https://images.metahub.space/poster/medium/tt2953050/img"
+    },
+    {
+      "id": "tt0398286",
+      "type": "movie",
+      "name": "Enredados (Tangled)",
+      "poster": "https://images.metahub.space/poster/medium/tt0398286/img"
+    },
+    {
+      "id": "tt2948356",
+      "type": "movie",
+      "name": "Zootopia",
+      "poster": "https://images.metahub.space/poster/medium/tt2948356/img"
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "El Rey León (1994)",
+      "poster": "https://images.metahub.space/poster/medium/tt0110357/img"
+    },
+    {
+      "id": "tt0097733",
+      "type": "movie",
+      "name": "La Sirenita (1989)",
+      "poster": "https://images.metahub.space/poster/medium/tt0097733/img"
+    },
+    {
+      "id": "tt0101414",
+      "type": "movie",
+      "name": "La Bella y la Bestia (1991)",
+      "poster": "https://images.metahub.space/poster/medium/tt0101414/img"
+    },
+    {
+      "id": "tt0103639",
+      "type": "movie",
+      "name": "Aladdín (1992)",
+      "poster": "https://images.metahub.space/poster/medium/tt0103639/img"
+    },
+    {
+      "id": "tt0120762",
+      "type": "movie",
+      "name": "Mulán (1998)",
+      "poster": "https://images.metahub.space/poster/medium/tt0120762/img"
+    },
+    {
+      "id": "tt0120855",
+      "type": "movie",
+      "name": "Tarzán (1999)",
+      "poster": "https://images.metahub.space/poster/medium/tt0120855/img"
+    },
+    {
+      "id": "tt0120917",
+      "type": "movie",
+      "name": "Las locuras del emperador",
+      "poster": "https://images.metahub.space/poster/medium/tt0120917/img"
+    },
+    {
+      "id": "tt0275847",
+      "type": "movie",
+      "name": "Lilo y Stitch",
+      "poster": "https://images.metahub.space/poster/medium/tt0275847/img"
+    },
+    {
+      "id": "tt0126029",
+      "type": "movie",
+      "name": "Shrek",
+      "poster": "https://images.metahub.space/poster/medium/tt0126029/img"
+    },
+    {
+      "id": "tt0298148",
+      "type": "movie",
+      "name": "Shrek 2",
+      "poster": "https://images.metahub.space/poster/medium/tt0298148/img"
+    },
+    {
+      "id": "tt0413267",
+      "type": "movie",
+      "name": "Shrek Tercero",
+      "poster": "https://images.metahub.space/poster/medium/tt0413267/img"
+    },
+    {
+      "id": "tt0892791",
+      "type": "movie",
+      "name": "Shrek para siempre",
+      "poster": "https://images.metahub.space/poster/medium/tt0892791/img"
+    },
+    {
+      "id": "tt3915174",
+      "type": "movie",
+      "name": "El Gato con Botas: El último deseo",
+      "poster": "https://images.metahub.space/poster/medium/tt3915174/img"
+    },
+    {
+      "id": "tt0892769",
+      "type": "movie",
+      "name": "Cómo entrenar a tu dragón",
+      "poster": "https://images.metahub.space/poster/medium/tt0892769/img"
+    },
+    {
+      "id": "tt1649419",
+      "type": "movie",
+      "name": "Cómo entrenar a tu dragón 2",
+      "poster": "https://images.metahub.space/poster/medium/tt1649419/img"
+    },
+    {
+      "id": "tt2386490",
+      "type": "movie",
+      "name": "Cómo entrenar a tu dragón 3",
+      "poster": "https://images.metahub.space/poster/medium/tt2386490/img"
+    },
+    {
+      "id": "tt0441773",
+      "type": "movie",
+      "name": "Kung Fu Panda",
+      "poster": "https://images.metahub.space/poster/medium/tt0441773/img"
+    },
+    {
+      "id": "tt1302011",
+      "type": "movie",
+      "name": "Kung Fu Panda 2",
+      "poster": "https://images.metahub.space/poster/medium/tt1302011/img"
+    },
+    {
+      "id": "tt2267968",
+      "type": "movie",
+      "name": "Kung Fu Panda 3",
+      "poster": "https://images.metahub.space/poster/medium/tt2267968/img"
+    },
+    {
+      "id": "tt21692408",
+      "type": "movie",
+      "name": "Kung Fu Panda 4",
+      "poster": "https://images.metahub.space/poster/medium/tt21692408/img"
+    },
+    {
+      "id": "tt0351283",
+      "type": "movie",
+      "name": "Madagascar",
+      "poster": "https://images.metahub.space/poster/medium/tt0351283/img"
+    },
+    {
+      "id": "tt0479952",
+      "type": "movie",
+      "name": "Madagascar 2",
+      "poster": "https://images.metahub.space/poster/medium/tt0479952/img"
+    },
+    {
+      "id": "tt1277953",
+      "type": "movie",
+      "name": "Madagascar 3: Los fugitivos",
+      "poster": "https://images.metahub.space/poster/medium/tt1277953/img"
+    },
+    {
+      "id": "tt0268380",
+      "type": "movie",
+      "name": "La era de hielo",
+      "poster": "https://images.metahub.space/poster/medium/tt0268380/img"
+    },
+    {
+      "id": "tt0438097",
+      "type": "movie",
+      "name": "La era de hielo 2",
+      "poster": "https://images.metahub.space/poster/medium/tt0438097/img"
+    },
+    {
+      "id": "tt0938330",
+      "type": "movie",
+      "name": "La era de hielo 3",
+      "poster": "https://images.metahub.space/poster/medium/tt0938330/img"
+    },
+    {
+      "id": "tt6718170",
+      "type": "movie",
+      "name": "Super Mario Bros.: La película",
+      "poster": "https://images.metahub.space/poster/medium/tt6718170/img"
+    },
+    {
+      "id": "tt4881806",
+      "type": "movie",
+      "name": "Sing: ¡Ven y canta!",
+      "poster": "https://images.metahub.space/poster/medium/tt4881806/img"
+    },
+    {
+      "id": "tt6467266",
+      "type": "movie",
+      "name": "Sing 2: ¡Ven y canta de nuevo!",
+      "poster": "https://images.metahub.space/poster/medium/tt6467266/img"
+    },
+    {
+      "id": "tt2709768",
+      "type": "movie",
+      "name": "La vida secreta de tus mascotas",
+      "poster": "https://images.metahub.space/poster/medium/tt2709768/img"
+    },
+    {
+      "id": "tt0245429",
+      "type": "movie",
+      "name": "El viaje de Chihiro",
+      "poster": "https://images.metahub.space/poster/medium/tt0245429/img"
+    },
+    {
+      "id": "tt0096283",
+      "type": "movie",
+      "name": "Mi vecino Totoro",
+      "poster": "https://images.metahub.space/poster/medium/tt0096283/img"
+    }
+  ]
+}

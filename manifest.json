@@ -1,6 +1,6 @@
 {
   "id": "org.micatalogo.stremio",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "name": "Mis Sagas y Estudios",
   "description": "Catalogo propio estatico",
   "resources": ["catalog"],
@@ -20,6 +20,11 @@
       "type": "movie",
       "id": "marvel",
       "name": "Marvel (Orden de estreno)"
+    },
+    {
+      "type": "movie",
+      "id": "liveaction_kids",
+      "name": "Aventuras Live-Action (2020+)"
     }
   ]
 }

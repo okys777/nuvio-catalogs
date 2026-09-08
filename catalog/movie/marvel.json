@@ -23,7 +23,7 @@
     { "id": "tt4154664", "type": "movie", "name": "Captain Marvel (2019)", "poster": "https://images.metahub.space/poster/medium/tt4154664/img" },
     { "id": "tt4154796", "type": "movie", "name": "Avengers: Endgame (2019)", "poster": "https://images.metahub.space/poster/medium/tt4154796/img" },
     { "id": "tt6320628", "type": "movie", "name": "Spider-Man: Far From Home (2019)", "poster": "https://images.metahub.space/poster/medium/tt6320628/img" },
-    { "id": "tt3470600", "type": "movie", "name": "Black Widow (2021)", "poster": "https://images.metahub.space/poster/medium/tt3470600/img" },
+    { "id": "tt3480822", "type": "movie", "name": "Black Widow (2021)", "poster": "https://images.metahub.space/poster/medium/tt3470600/img" },
     { "id": "tt9376612", "type": "movie", "name": "Shang-Chi and the Legend of the Ten Rings (2021)", "poster": "https://images.metahub.space/poster/medium/tt9376612/img" },
     { "id": "tt9032400", "type": "movie", "name": "Eternals (2021)", "poster": "https://images.metahub.space/poster/medium/tt9032400/img" },
     { "id": "tt10872600", "type": "movie", "name": "Spider-Man: No Way Home (2021)", "poster": "https://images.metahub.space/poster/medium/tt10872600/img" },
@@ -38,6 +38,6 @@
     { "id": "tt20969586", "type": "movie", "name": "Thunderbolts* (2025)", "poster": "https://images.metahub.space/poster/medium/tt20969586/img" },
     { "id": "tt10676052", "type": "movie", "name": "The Fantastic Four: First Steps (2025)", "poster": "https://images.metahub.space/poster/medium/tt10676052/img" },
     { "id": "tt22084616", "type": "movie", "name": "Spider-Man: Brand New Day (2026)", "poster": "https://images.metahub.space/poster/medium/tt22084616/img" },
-    { "id": "tt43711959", "type": "movie", "name": "Avengers: Doomsday (2026)", "poster": "https://images.metahub.space/poster/medium/tt43711959/img" }
+    { "id": "tt21357150", "type": "movie", "name": "Avengers: Doomsday (2026)", "poster": "https://images.metahub.space/poster/medium/tt43711959/img" }
   ]
 }

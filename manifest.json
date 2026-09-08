@@ -1,6 +1,6 @@
 {
   "id": "org.micatalogo.stremio",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "name": "Mis Sagas y Estudios",
   "description": "Catalogo propio estatico",
   "resources": ["catalog"],
@@ -15,6 +15,11 @@
       "type": "movie",
       "id": "martulina",
       "name": "Martulina"
+    },
+    {
+      "type": "movie",
+      "id": "marvel",
+      "name": "Marvel (Orden de estreno)"
     }
   ]
 }

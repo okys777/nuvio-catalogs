@@ -1,6 +1,6 @@
 {
   "id": "org.micatalogo.stremio",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "name": "Mis Sagas y Estudios",
   "description": "Catalogo propio estatico",
   "resources": ["catalog"],

@@ -1,6 +1,6 @@
 {
   "id": "org.micatalogo.stremio",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "name": "Mis Sagas y Estudios",
   "description": "Catalogo propio estatico",
   "resources": ["catalog"],
@@ -30,6 +30,11 @@
       "type": "movie",
       "id": "ghibli",
       "name": "Studio Ghibli"
+    },
+    {
+      "type": "movie",
+      "id": "top_peliculas",
+      "name": "Top Películas Clásicas"
     }
   ]
 }

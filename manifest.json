@@ -1,6 +1,6 @@
 {
   "id": "org.micatalogo.stremio",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "name": "Mis Sagas y Estudios",
   "description": "Catalogo propio estatico",
   "resources": ["catalog"],
@@ -35,6 +35,11 @@
       "type": "movie",
       "id": "top_peliculas",
       "name": "Top Películas Clásicas"
+    },
+    {
+      "type": "movie",
+      "id": "martu",
+      "name": "Fantasía Oscura y Peculiar"
     }
   ]
 }
